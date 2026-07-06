@@ -1,6 +1,6 @@
 START_MSG = """
-This bot can mirror from links|tgfiles|torrents|nzb|rclone-cloud to any rclone cloud, Google Drive or to telegram.
-Type /{cmd} to get a list of available commands
+Tʜɪs ʙᴏᴛ ᴄᴀɴ ᴍɪʀʀᴏʀ ғʀᴏᴍ ʟɪɴᴋs|ᴛɢғɪʟᴇs|ᴛᴏʀʀᴇɴᴛs|ɴᴢʙ|ʀᴄʟᴏɴᴇ-ᴄʟᴏᴜᴅ ᴛᴏ ᴀɴʏ ʀᴄʟᴏɴᴇ ᴄʟᴏᴜᴅ, Gᴏᴏɢʟᴇ Dʀɪᴠᴇ ᴏʀ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ.
+Tʏᴘᴇ /{ᴄᴍᴅ} ᴛᴏ ɢᴇᴛ ᴀ ʟɪsᴛ ᴏғ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs
 """
-START_BUTTON1 = "Git Repo"
-START_BUTTON2 = "Updates"
+START_BUTTON1 = "Gʀᴏᴜᴘ"
+START_BUTTON2 = """ = "Uᴘᴅᴀᴛᴇs"
